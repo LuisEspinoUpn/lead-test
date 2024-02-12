@@ -10,9 +10,10 @@ authors = ["WEB"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 django = "^3.2"
 djangorestframework = "^3.14.0"
 coreapi = "^2.3.3"
 requests = "^3.3.2"
 apscheduler = "^3.10.1"
+crontab = "^1.01"
